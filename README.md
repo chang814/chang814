@@ -9,9 +9,25 @@
 
 **Chang Ma — Sophomore in Artificial Intelligence at Anhui Normal University.**
 
-I use this space as both a structured learning archive and a portfolio of independent builds. My current work revolves around two core tracks: strengthening CS fundamentals (C, C++, Data Structures, Computer Organization) and exploring how AI Agents and AI-assisted workflows accelerate real-world software creation. Guided by Research, Practice, and Create, I document my code, experiments, and product iterations here.
+I use this space as both a structured learning archive and a portfolio of personal and team projects. My current work revolves around two core tracks: strengthening CS fundamentals (C, C++, Data Structures, Computer Organization) and exploring how AI Agents and AI-assisted workflows accelerate real-world software creation. Guided by Research, Practice, and Create, I document my code, experiments, and product iterations here.
 
-我是马畅。这里既是我的计算机科学学习档案，也是独立项目的试验场。现阶段的日常由两部分构成：一是通过 C/C++ 编程训练、算法竞赛与系统课程夯实计算机基础；二是深入研究 AI Agent 产品与智能辅助编程，探索软件开发方式的演进。从理解原理（Research）、动手验证（Practice）到做出真正可用的作品（Create），我希望用真实的代码提交与项目迭代，记录从理论走向创造的每一步。
+我是马畅。这里既是我的计算机科学学习档案，也用来展示个人项目和团队实践。现阶段的日常由两部分构成：一是通过 C/C++ 编程训练、算法竞赛与系统课程夯实计算机基础；二是深入研究 AI Agent 产品与智能辅助编程，探索软件开发方式的演进。从理解原理（Research）、动手验证（Practice）到做出真正可用的作品（Create），我希望用真实的代码提交与项目迭代，记录从理论走向创造的每一步。
+
+---
+
+## 🚀 Featured Projects | 精选项目
+
+### [五子棋对战游戏 | Gobang](https://github.com/chang814/project/tree/main/gobang)
+
+A team assignment for our Programming Training course. The Windows game supports local two-player, AI, and LAN matches. I worked on the game rules, save system, and AI engine, and contributed to LAN play.
+
+《程序设计训练》课程的团队实践作业。游戏支持本地双人、人机和局域网对战。我主要负责棋局逻辑、存档和 AI 引擎，并参与了联网模块。
+
+### [畅记 | Changji](https://github.com/chang814/project/tree/main/changji)
+
+A personal English practice tool for word typing, listening and spelling, and sentence practice, available as a web app and a Windows desktop app.
+
+我做的英语练习工具，支持单词跟练、听音拼写和长句输入，有网页版和 Windows 桌面版。
 
 ---
 
@@ -56,22 +72,6 @@ Exploring AI-powered development tools, agentic workflows, and human-AI collabor
   实践：在日常编程中实践人机协作，探索 AI 辅助开发对软件工程流程的改变。
 - **Create — From Idea to Project:** Leveraging AI tools to bridge technical gaps and turn personal concepts into working software.\
   创造：借助新一代智能工具将个人想法转化为实际可用的独立项目。
-
----
-
-## 🚀 Featured Projects | 精选项目
-
-### [五子棋对战游戏 | Gobang](https://github.com/chang814/project/tree/main/gobang)
-
-A team assignment for our Programming Training course. The Windows game supports local two-player, AI, and LAN matches. I worked on the game rules, save system, and AI engine, and contributed to LAN play.
-
-《程序设计训练》课程的团队实践作业。游戏支持本地双人、人机和局域网对战。我主要负责棋局逻辑、存档和 AI 引擎，并参与了联网模块。
-
-### [畅记 | Changji](https://github.com/chang814/project/tree/main/changji)
-
-A personal English practice tool for word typing, listening and spelling, and sentence practice, available as a web app and a Windows desktop app.
-
-我做的英语练习工具，支持单词跟练、听音拼写和长句输入，有网页版和 Windows 桌面版。
 
 ---
 
