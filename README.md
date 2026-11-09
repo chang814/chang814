@@ -61,17 +61,26 @@ Exploring AI-powered development tools, agentic workflows, and human-AI collabor
 
 ## 🚀 Featured Projects | 精选项目
 
-Selected independent projects and practical builds will be featured here.
+### [五子棋对战游戏 | Gobang](https://github.com/chang814/project/tree/main/gobang)
 
-这里将展示经过整理的独立开发项目与实践成果。
+A team assignment for our Programming Training course. The Windows game supports local two-player, AI, and LAN matches. I worked on the game rules, save system, and AI engine, and contributed to LAN play.
+
+《程序设计训练》课程的团队实践作业。游戏支持本地双人、人机和局域网对战。我主要负责棋局逻辑、存档和 AI 引擎，并参与了联网模块。
+
+### [畅记 | Changji](https://github.com/chang814/project/tree/main/changji)
+
+A personal English practice tool for word typing, listening and spelling, and sentence practice, available as a web app and a Windows desktop app.
+
+我做的英语练习工具，支持单词跟练、听音拼写和长句输入，有网页版和 Windows 桌面版。
 
 ---
 
 ## 📂 Repository Index | 仓库索引
 
-Learning archives and project repositories will be added as they are established.
-
-随着学习档案和项目仓库逐步建立，这里将持续更新。
+- **[project](https://github.com/chang814/project)** — Public portfolio with source code and project documentation.  
+  公开作品集，收录五子棋和畅记的源码与项目说明。
+- **Private study archives | 私有学习档案** — C/C++ algorithm exercises and Java object-oriented programming labs.  
+  记录 C/C++ 算法练习和 Java 面向对象实验。
 
 ---
 
@@ -83,6 +92,6 @@ Learning archives and project repositories will be added as they are established
 
 ## 🔗 Connect With Me
 
-🐙 GitHub: @ma-chang
+🐙 GitHub: [@chang814](https://github.com/chang814)
 
 Thanks for visiting my profile!
