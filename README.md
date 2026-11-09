@@ -19,11 +19,15 @@ I use this space as both a structured learning archive and a portfolio of person
 
 ### [五子棋对战游戏 | Gobang](https://github.com/chang814/project/tree/main/gobang)
 
+[Windows 下载 | Download](https://github.com/chang814/project/releases/download/windows-2026-11-09/Gobang-Windows-x64.zip)
+
 A team assignment for our Programming Training course. The Windows game supports local two-player, AI, and LAN matches. I worked on the game rules, save system, and AI engine, and contributed to LAN play.
 
 《程序设计训练》课程的团队实践作业。游戏支持本地双人、人机和局域网对战。我主要负责棋局逻辑、存档和 AI 引擎，并参与了联网模块。
 
 ### [畅记 | Changji](https://github.com/chang814/project/tree/main/changji)
+
+[在线使用 | Open in browser](https://chang814.github.io/project/) · [Windows 下载 | Download](https://github.com/chang814/project/releases/download/windows-2026-11-09/Changji-v1.1.3-Windows-x64.exe)
 
 A personal English practice tool for word typing, listening and spelling, and sentence practice, available as a web app and a Windows desktop app.
 
