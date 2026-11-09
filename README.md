@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Learning Today, Building Tomorrow.</strong><br>
-  立足当下 · 探索未来
+  知行当下 · 探索未来
 </p>
 
 ## 👨‍💻 About Me | 关于我
