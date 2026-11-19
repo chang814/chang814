@@ -5,7 +5,6 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-chang814-24292f?style=flat-square&logo=github)](https://github.com/chang814)
-![School](https://img.shields.io/badge/安徽师范大学-人工智能_·_大二-6f8f5c?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-C%2B%2B_·_AI_Agents-c9a46a?style=flat-square)
 
 </div>
