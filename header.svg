@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Hi, I'm Chang Ma · Learning Today, Building Tomorrow · 知行当下 · 畅想未来">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f2a24"/>
+      <stop offset="0.55" stop-color="#26332b"/>
+      <stop offset="1" stop-color="#2f3f2f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e6c87a" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#e6c87a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="body" cx="0.38" cy="0.32" r="0.75">
+      <stop offset="0" stop-color="#f4e2b8"/>
+      <stop offset="0.6" stop-color="#e0c592"/>
+      <stop offset="1" stop-color="#c3a370"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="26"/></clipPath>
+    <clipPath id="typeclip"><rect class="typed" x="88" y="196" width="520" height="40"/></clipPath>
+    <style>
+      .hi { font: 700 64px "Segoe UI", "Noto Sans", "Helvetica Neue", Arial, sans-serif; letter-spacing: -0.5px; }
+      .tag { font: 500 24px "Segoe UI", "Noto Sans", Arial, sans-serif; }
+      .zh { font: 500 22px "Microsoft YaHei UI", "PingFang SC", "Noto Sans CJK SC", "Noto Sans SC", sans-serif; letter-spacing: 3px; }
+      .code { font: 500 20px "JetBrains Mono", "Cascadia Code", Consolas, "SFMono-Regular", monospace; }
+      .wave { transform-box: fill-box; transform-origin: 70% 80%; animation: wave 2.4s ease-in-out infinite; }
+      @keyframes wave { 0%, 60%, 100% { transform: rotate(0deg); } 10%, 30% { transform: rotate(16deg); } 20%, 40% { transform: rotate(-8deg); } }
+      .bot { animation: bob 2.8s ease-in-out infinite; }
+      @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+      .eyes { transform-box: fill-box; transform-origin: 50% 50%; animation: look 6s ease-in-out infinite; }
+      @keyframes look { 0%, 35%, 100% { transform: translateX(0); } 45%, 65% { transform: translateX(-7px); } }
+      .typed { animation: type 7s steps(30, end) infinite; }
+      @keyframes type { 0% { width: 0; } 45%, 85% { width: 520px; } 100% { width: 0; } }
+      .caret { animation: follow 7s steps(30, end) infinite; }
+      @keyframes follow { 0% { transform: translateX(-394px); } 45%, 85% { transform: translateX(0); } 100% { transform: translateX(-394px); } }
+      .star { animation: twinkle 3s ease-in-out infinite; }
+      .s2 { animation-delay: -1s; } .s3 { animation-delay: -2s; }
+      @keyframes twinkle { 0%, 100% { opacity: 0.25; } 50% { opacity: 0.9; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <circle cx="960" cy="150" r="190" fill="url(#glow)"/>
+    <g fill="#e6c87a">
+      <circle class="star" cx="700" cy="52" r="2.5"/>
+      <circle class="star s2" cx="1120" cy="70" r="2"/>
+      <circle class="star s3" cx="820" cy="250" r="2"/>
+      <circle class="star" cx="1150" cy="232" r="2.5"/>
+      <circle class="star s2" cx="640" cy="236" r="1.8"/>
+    </g>
+
+    <text x="84" y="112" class="hi" fill="#f1ead2">Hi, I’m Chang Ma <tspan class="wave">👋</tspan></text>
+    <text x="88" y="154" class="tag" fill="#b9c7a5">Learning Today, Building Tomorrow.</text>
+    <text x="88" y="186" class="zh" fill="#d8c08a">知行当下 · 畅想未来</text>
+
+    <rect x="80" y="200" width="560" height="44" rx="12" fill="#151d18" opacity="0.85"/>
+    <g clip-path="url(#typeclip)">
+      <text x="98" y="229" class="code"><tspan fill="#8fa88a">$ </tspan><tspan fill="#c7a6e0">while</tspan><tspan fill="#d8dccd"> (</tspan><tspan fill="#c7a6e0">learning</tspan><tspan fill="#d8dccd">) </tspan><tspan fill="#a8cf8e">build</tspan><tspan fill="#d8dccd">(</tspan><tspan fill="#e6c87a">"next"</tspan><tspan fill="#d8dccd">);</tspan></text>
+    </g>
+    <rect class="caret" x="490" y="210" width="3" height="24" rx="1.5" fill="#e6c87a"/>
+
+    <!-- The Codefarm bot, saying hello -->
+    <g class="bot">
+      <ellipse cx="960" cy="244" rx="62" ry="10" fill="#000" opacity="0.28"/>
+      <ellipse cx="903" cy="170" rx="13" ry="18" fill="#d8bb85"/>
+      <ellipse cx="1022" cy="132" rx="13" ry="18" fill="#d8bb85" transform="rotate(-35 1022 132)"/>
+      <circle cx="960" cy="160" r="64" fill="url(#body)"/>
+      <ellipse cx="938" cy="130" rx="20" ry="11" fill="#fff8e4" opacity="0.5"/>
+      <g class="eyes">
+        <rect x="942" y="142" width="10" height="28" rx="5" fill="#1d1c18"/>
+        <rect x="968" y="142" width="10" height="28" rx="5" fill="#1d1c18"/>
+      </g>
+    </g>
+    <g fill="#7fa64a" opacity="0.9">
+      <path d="M884 250 C 882 226 886 210 896 196 C 894 218 896 236 894 250 Z"/>
+      <path d="M1030 250 C 1030 228 1036 214 1046 204 C 1042 224 1042 238 1040 250 Z"/>
+      <path d="M1046 250 C 1048 232 1056 220 1064 214 C 1058 230 1056 242 1056 250 Z" fill="#8fb456"/>
+    </g>
+  </g>
+</svg>
